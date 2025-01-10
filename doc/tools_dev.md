@@ -18,9 +18,94 @@
 
 - Exemple le projet de Florence : [depot github](https://github.com/Florence-Martin/CDA_fil_rouge)
 
+- Exemple le projet de Valerie : [depot github](https://github.com/ValerieRas/Dossier_CDA?tab=readme-ov-file)
+
+
 - Daily affilié : [depot github](https://github.com/Simplon-hdf/daily-objectives-cda-vals-p4/blob/main/Jour-32.md)
 
 - Repo Simplon Doc : [depot github](https://github.com/Simplon-hdf/bot-discord-Simplon-Hub-doc)
+
+
+![border](../assets/line/line-pink-point_r.png)
+
+Résumé Structure :
+
+- Introduction
+
+  - Objectif du dossier
+  - Liste des compétences
+
+- Présentation de l'entreprise et du service
+  - Présentation de l'entreprise
+  - Présentation du service
+
+
+- Expression des besoins du projet
+
+  - Contexte et enjeux
+  - Objectifs
+  - Exigences fonctionnelles
+
+
+- Gestion de projet
+
+  - Méthodologie du projet
+  - Outil de gestion de projet
+  - Planning et suivi
+
+
+- Spécifications fonctionnelles
+
+  - Livrables
+  - Architecture logicielle
+  - Maquettes
+  - Use-case
+  - RBAC
+
+- Spécifications techniques
+  - Merise
+  - Diagramme de classes
+  - Diagramme de séquences
+
+- Extraits de code
+
+  - Captures d'écran d'interfaces utilisateur
+  - Composants métier
+  - Composants d'accès aux données
+  - Autres composants
+
+
+- Présentation d'éléments de sécurité de l'application
+
+  - Défense en profondeur
+  - Réduction de la surface d'attaque
+  - Politique de moindre privilège
+  - RGPD
+
+- Présentation du plan de tests
+
+  - Tests unitaires
+  - Tests d'intégration
+  - Tests end to end
+
+
+- Présentation d'un jeu d'essai
+
+- Déploiement
+
+  - Documentation DevOps
+  - Procédures de deploiement
+  - Maintenance applicative
+
+
+- Veille
+
+  - Vulnérabilités de sécurité rencontrées
+  - Failles corrigées
+  - Sources
+- Annexes
+
+
 
 ![border](../assets/line/line-pink-point_r.png)
 
