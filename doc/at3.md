@@ -4,13 +4,13 @@
 
 ![border](../assets/line/border_deco_rt.png)
 
-# AT 3 : Développement d'applications multicouches
+# **AT 3** : *Développement d'applications multicouches*
 
 ![border](../assets/line/line-pink-point_l.png)
 
 ![border](../assets/img/AT3.png)
 
-## Sommaire
+# Sommaire
 
 - [Introduction](#introduction)
 

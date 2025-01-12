@@ -4,13 +4,13 @@
 
 ![border](../assets/line/border_deco_rt.png)
 
-# AT 2 : Gestion sécurisée des données
+# **AT 2** : *Gestion sécurisée des données*
 
 ![border](../assets/line/line-pink-point_l.png)
 
 ![border](../assets/img/AT2.png)
 
-## Sommaire
+# Sommaire
 
 - [Introduction](#introduction)
 

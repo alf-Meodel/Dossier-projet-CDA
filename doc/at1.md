@@ -4,12 +4,12 @@
 
 ![border](../assets/line/border_deco_rt.png)
 
-# AT 1 : Développement d'interfaces sécurisées
+# **AT 1** : *Développement d'interfaces sécurisées*
 
 ![border](../assets/line/line-pink-point_l.png)
 
 ![border](../assets/img/AT1.png)
-## Sommaire
+# Sommaire
 
 - [Introduction](#introduction)
 
