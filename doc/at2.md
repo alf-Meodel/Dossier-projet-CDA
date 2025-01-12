@@ -12,8 +12,8 @@
 
 # Sommaire
 
-- [Introduction](#introduction)  
-- [Objectif](#objectif)  
+<!-- - [Introduction](#introduction)  
+- [Objectif](#objectif)   -->
 - [Concevoir une base de données](#concevoir-une-base-de-données)  
 - [Mettre en place une base de données](#mettre-en-place-une-base-de-données)  
 - [Développer des composants dans le langage d'une base de données](#développer-des-composants-dans-le-langage-dune-base-de-données)  

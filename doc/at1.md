@@ -12,8 +12,8 @@
 
 # Sommaire
 
-- [Introduction](#introduction)  
-- [Objectif](#objectif)  
+<!-- - [Introduction](#introduction)  
+- [Objectif](#objectif)   -->
 - [Maquetter une application](#maquetter-une-application)  
 - [Développer une interface utilisateur de type desktop](#développer-une-interface-utilisateur-de-type-desktop)  
 - [Développer des composants d'accès aux données](#développer-des-composants-daccès-aux-données)  

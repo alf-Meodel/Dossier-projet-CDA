@@ -12,7 +12,7 @@
 
 # Sommaire
 
-- [Introduction](#introduction)
+<!-- - [Introduction](#introduction) -->
 - [Collaborer à la gestion d'un projet informatique et à l'organisation de l'environnement de développement](#collaborer-à-la-gestion-dun-projet-informatique-et-à-lorganisation-de-lenvironnement-de-développement)  
 - [Concevoir une application](#concevoir-une-application)  
 - [Développer des composants métier](#développer-des-composants-métier)  

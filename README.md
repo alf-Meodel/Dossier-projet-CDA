@@ -45,17 +45,17 @@ développer des applications en suivant les meilleures pratiques de 2024.
 ![mep_top](./assets/line/line-teal-point_r.png)
 
 
-# Liste des compétences
+<!-- # Liste des compétences
 
 - [AT 1 : Développement d'interfaces sécurisées](./doc/at1.md)
 (Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité)
 
 - [AT 2 : Gestion sécurisée des données](./doc/at2.md)(Concevoir et développer la persistance des données en intégrant les recommandations de sécurité)
 
-- [AT 3 : Développement d'applications multicouches](./doc/at3.md)(Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité)
+- [AT 3 : Développement d'applications multicouches](./doc/at3.md)(Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité) -->
 
 
-![mep_top](./assets/line/line-teal-point_r.png)
+<!-- ![mep_top](./assets/line/line-teal-point_r.png) -->
 
 <a href="#sommaire">  <img src="assets/button/back_to_top.png" alt="Back to top" style="width: 150px; height: auto;"></a>
 
