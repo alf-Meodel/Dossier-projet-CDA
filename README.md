@@ -6,8 +6,8 @@
 # Sommaire
 
 - [Introduction](#introduction)
-- [Tableau des compétences](#tableau-des-compétences)
 - [Liste des compétences](#liste-des-compétences)
+- [Tableau des compétences](#tableau-des-compétences)
  
 
 
@@ -23,6 +23,21 @@ afin de couvrir l'ensemble des compétences demandées.
 Ce projet reflète l'expérience acquise au cours de mon parcours 
 à l'école **SIMPLON Hauts-de-France**, où j'ai appris à concevoir et 
 développer des applications en suivant les meilleures pratiques de 2024.
+
+# Liste des compétences
+
+- [AT 1 : Développement d'interfaces sécurisées](./doc/at1.md)
+
+(Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité)
+
+- [AT 2 : Gestion sécurisée des données](./doc/at2.md)
+
+(Concevoir et développer la persistance des données en intégrant les recommandations de sécurité)
+
+- [AT 3 : Développement d'applications multicouches](./doc/at3.md)
+
+(Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité)
+
 
 
 <!-- - Liste des compétences du référentiel qui sont couvertes par le projet
@@ -45,14 +60,6 @@ développer des applications en suivant les meilleures pratiques de 2024.
 ![mep_top](./assets/line/line-teal-point_r.png)
 
 
-<!-- # Liste des compétences
-
-- [AT 1 : Développement d'interfaces sécurisées](./doc/at1.md)
-(Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité)
-
-- [AT 2 : Gestion sécurisée des données](./doc/at2.md)(Concevoir et développer la persistance des données en intégrant les recommandations de sécurité)
-
-- [AT 3 : Développement d'applications multicouches](./doc/at3.md)(Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité) -->
 
 
 <!-- ![mep_top](./assets/line/line-teal-point_r.png) -->
