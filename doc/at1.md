@@ -10,7 +10,7 @@
 
 ![border](../assets/img/AT1.png)
 
-# Sommaire
+## Sommaire
 
 <!-- - [Introduction](#introduction)  
 - [Objectif](#objectif)   -->
@@ -23,9 +23,9 @@
 
 ![border](../assets/line/border_deco_rb.png)
 
-# Introduction
+## Introduction
 
-# Objectif
+## Objectif
 
 (Concevoir et développer des composants d'interface utilisateur en intégrant les recommandations de sécurité)
 

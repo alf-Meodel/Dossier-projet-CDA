@@ -26,7 +26,7 @@
 
 ![border](../assets/line/border_deco_rb.png)
 
-# Objectif
+## Objectif
 
 (Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité)
 
