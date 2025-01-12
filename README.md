@@ -6,25 +6,25 @@
 # Sommaire
 
 - [Introduction](#introduction)
-- [Liste des compétences](#liste-des-compétences)
 - [Tableau des compétences](#tableau-des-compétences)
+
+
+# Navigation 
+
+- [Présentation](./doc/presentation.md)
+- [Structure du projet](./doc/structure_projet.md)
  
 
 
 # Introduction
 
-Ce dossier de projet a pour objectif de **démontrer la maîtrise des compétences 
-requises** afin d'obtenir le **titre de Concepteur et Développeur d'Applications.**
- 
-Pour cela, j'ai structuré mon projet en **trois grandes parties** basées sur les
-µµ et les **CP (Compétences Professionnelles)**, 
-afin de couvrir l'ensemble des compétences demandées. 
-  
-Ce projet reflète l'expérience acquise au cours de mon parcours 
-à l'école **SIMPLON Hauts-de-France**, où j'ai appris à concevoir et 
-développer des applications en suivant les meilleures pratiques de 2024.
+Ce dossier de projet a pour objectif de mettre en avant la maîtrise des compétences attendues pour l'obtention du titre de Concepteur et Développeur d'Applications.
 
-# Liste des compétences
+Pour cela, j'ai structuré mon projet en trois grandes parties, basées sur les AT (Activités Types) et les CP (Compétences Professionnelles), afin de couvrir l'ensemble des compétences exigées.
+
+Ce projet s'inscrit dans un travail collaboratif réalisé avec la promotion 4 CDA de l'école SIMPLON Hauts-de-France, où nous avons conçu et développé ensemble des bots à travers une organisation structurée en groupes, chacun étant dédié à la mise en place d'un bot spécifique. Cette expérience m'a permis d'appliquer mes connaissances tout en suivant des méthodologies modernes adaptées aux exigences actuelles.
+
+<!-- # Liste des compétences
 
 - [AT 1 : Développement d'interfaces sécurisées](./doc/at1.md)
 
@@ -36,9 +36,9 @@ développer des applications en suivant les meilleures pratiques de 2024.
 
 - [AT 3 : Développement d'applications multicouches](./doc/at3.md)
 
-(Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité)
+(Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité) -->
 
-
+---
 
 <!-- - Liste des compétences du référentiel qui sont couvertes par le projet
 - [Résumé du projet](./doc/resume_projet.md)
