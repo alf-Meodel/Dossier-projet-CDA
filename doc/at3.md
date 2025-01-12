@@ -4,7 +4,7 @@
 
 ![border](../assets/line/border_deco_rt.png)
 
-# DOC TYPE
+# AT 3 : Développement d'applications multicouches
 
 ![border](../assets/line/line-pink-point_l.png)
 
@@ -14,7 +14,9 @@
 
 ![border](../assets/line/border_deco_rb.png)
 
-# Introduction
+# Objectif
+
+(Concevoir et développer une application multicouche répartie en intégrant les recommandations de sécurité)
 
 ![border](../assets/line/line-pink-point_r.png)
 

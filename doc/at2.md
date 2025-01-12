@@ -4,7 +4,7 @@
 
 ![border](../assets/line/border_deco_rt.png)
 
-# DOC TYPE
+# AT 2 : Gestion sécurisée des données
 
 ![border](../assets/line/line-pink-point_l.png)
 
@@ -15,6 +15,10 @@
 ![border](../assets/line/border_deco_rb.png)
 
 # Introduction
+
+# Objectif
+
+(Concevoir et développer la persistance des données en intégrant les recommandations de sécurité)
 
 ![border](../assets/line/line-pink-point_r.png)
 
