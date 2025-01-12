@@ -50,6 +50,8 @@
 ### Déveloper la partie front-end d'une interface utilisateur 
 ### Déveloper la partie back-end d'une interface utilisateur web
 
+<a href="#sommaire">  <img src="../assets/button/back_to_top.png" alt="Back to top" style="width: 150px; height: auto;"></a>
+
 ![border](../assets/line/line-pink-point_l.png)
 # **AT 2** : *Gestion sécurisée des données*
 
@@ -62,6 +64,8 @@
 ### Concevoir une base de données 
 ### Mettre en place une base de données
 ### Développer des composants dans le langage d'une base de données 
+
+<a href="#sommaire">  <img src="../assets/button/back_to_top.png" alt="Back to top" style="width: 150px; height: auto;"></a>
 
 ![border](../assets/line/line-pink-point_l.png)
 # **AT 3** : *Développement d'applications multicouches*
@@ -93,8 +97,6 @@
 
 ![border](../assets/line/line-pink-point_r.png)
 
-<a href="#sommaire">
-  <img src="../assets/button/back_to_top.png" alt="Back to top" style="width: 150px; height: auto;">
-</a>
+<a href="#sommaire">  <img src="../assets/button/back_to_top.png" alt="Back to top" style="width: 150px; height: auto;"></a>
 
 ![border](../assets/line/border_deco_l.png)
