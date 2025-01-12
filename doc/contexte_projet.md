@@ -7,11 +7,38 @@
 # Contexte du projet
 
 ![border](../assets/line/line-pink-point_l.png)
-Simplon est un organisme de formation en numérique, présent en France et à l'international, reconnu pour son engagement social et solidaire. Depuis 2013, il forme des publics éloignés de l'emploi ou en reconversion, avec une attention particulière à l'inclusivité (jeunes décrocheurs, personnes en situation de handicap, migrants). Avec 106 campus, dont 103 en France, Simplon a formé plus de 28 000 personnes, en mettant l'accent sur une pédagogie active et des pratiques modernes comme le "learning by doing".
 
-Dans un secteur concurrentiel, Simplon se distingue par ses partenariats solides, sa spécialisation dans le numérique, et son approche pratique orientée vers l’insertion professionnelle. Contrairement à des acteurs comme OpenClassrooms ou École 42, Simplon allie formation gratuite, mixité sociale, et méthodologies adaptées au marché.
 
-Le projet "Serveur Discord Communautaire Simplon HDF" reflète cet esprit collaboratif : centraliser la communication entre apprenants et équipes pour renforcer l’appartenance à une communauté numérique inclusive.
+## Présentation de Simplon  
+
+### **1. Une mission sociale et inclusive**  
+- **Un acteur clé de la formation numérique** :  
+  Simplon est présent en France et à l'international, avec **106 campus** (dont **103 en France**). Depuis **2013**, l’organisme a formé plus de **28 000 personnes**, en priorisant :  
+  - Les publics éloignés de l’emploi : **jeunes décrocheurs**, **personnes en situation de handicap**, **migrants**.  
+  - Une pédagogie moderne : **"learning by doing"**, favorisant l’apprentissage pratique.  
+
+- **Un engagement pour l’inclusion** :  
+  - Formation gratuite et ouverte à des profils diversifiés.  
+  - Accent sur la mixité sociale et la parité pour promouvoir une égalité des chances.  
+
+### **2. Une réponse adaptée au marché et à la concurrence**  
+- **Adaptation aux besoins des entreprises** :  
+  - Simplon forme des talents opérationnels grâce à des méthodes alignées sur les attentes professionnelles.  
+  - Spécialisation dans des secteurs en demande : développement web, data, cybersécurité.  
+
+- **Une position unique sur un marché concurrentiel** :  
+  - Contrairement à OpenClassrooms (100 % en ligne) ou École 42 (non diplômante), Simplon allie :  
+    - **Gratuité** des formations.  
+    - Méthodes pédagogiques collaboratives et orientées vers l’insertion professionnelle.  
+
+### **3. Un projet communautaire : le Serveur Discord Simplon HDF**  
+- Simplon HDF utilise Discord pour :  
+  - **Centraliser la communication** entre apprenants, formateurs et équipes administratives.  
+  - **Renforcer l’appartenance** à une communauté numérique inclusive et collaborative.  
+
+
+
+
 
 ![border](../assets/line/line-pink-point_r.png)
 
