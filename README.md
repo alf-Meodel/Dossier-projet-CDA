@@ -17,7 +17,7 @@ Ce dossier de projet a pour objectif de **démontrer la maîtrise des compétenc
 requises** afin d'obtenir le **titre de Concepteur et Développeur d'Applications.**
  
 Pour cela, j'ai structuré mon projet en **trois grandes parties** basées sur les
-AT (Activités Types) et les CP (Compétences Professionnelles), 
+µµ et les **CP (Compétences Professionnelles)**, 
 afin de couvrir l'ensemble des compétences demandées. 
   
 Ce projet reflète l'expérience acquise au cours de mon parcours 
