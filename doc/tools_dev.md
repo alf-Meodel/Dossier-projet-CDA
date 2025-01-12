@@ -4,7 +4,7 @@
 
 ![border](../assets/line/border_deco_rt.png)
 
-# DOC TYPE
+# DOC EPHEMERES
 
 ![border](../assets/line/line-pink-point_l.png)
 
