@@ -12,7 +12,8 @@
 # Navigation 
 
 - [Mon Parcours](./doc/presentation.md)
-- [Structure du projet](./doc/structure_projet.md)
+- [Liste des compétences](./doc/liste_competences.md)
+- [Contexte du projet](./doc/contexte_projet.md)
 - [Documents éphémères](./doc/tools_dev.md)
  
 

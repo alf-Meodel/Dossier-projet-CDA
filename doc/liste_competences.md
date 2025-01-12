@@ -4,7 +4,7 @@
 
 ![border](../assets/line/border_deco_rt.png)
 
-# *Structure du Projet fil rouge*
+# *Liste des compétences*
 
 ![border](../assets/line/line-pink-point_l.png)
 
