@@ -8,9 +8,6 @@
 
 ![border](../assets/line/line-pink-point_l.png)
 
-## Sommaire
-
-- [Introduction](#introduction)
 
 ![border](../assets/line/border_deco_rb.png)
 
@@ -109,7 +106,7 @@ Résumé Structure :
 
 ![border](../assets/line/line-pink-point_r.png)
 
-<a href="#sommaire">
+<a href="#doc-ephemeres">
   <img src="../assets/button/back_to_top.png" alt="Back to top" style="width: 150px; height: auto;">
 </a>
 
