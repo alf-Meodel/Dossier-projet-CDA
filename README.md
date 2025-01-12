@@ -34,7 +34,7 @@ développer des applications en suivant les meilleures pratiques de 2024.
 - Spécifications techniques
 - Réalisations
 - Demonstration 
-- Et si c'était à refaire? --> -->
+- Et si c'était à refaire? --> 
 
 ![mep_top](./assets/line/border_deco_rb.png)
 
