@@ -46,6 +46,10 @@
     - [Diagramme d'activité](./doc/merise_definition.md)
     - [Diagrammes de séquence](./doc/merise_definition.md)
 
+- [Tests appliqués]()
+    - [Tests unitaires]()
+    - [Tests d'intégration]()
+    - [Tests end-to-end]()
 
 
 
