@@ -3,18 +3,19 @@
 
 ![mep_top](./assets/line/border_deco_rt.png)
 
-# Sommaire
-
-- [Introduction](#introduction)
-- [Tableau des compétences](#tableau-des-compétences)
 
 
 # Navigation 
 
 
-- [Mon Parcours](./doc/presentation.md)
-- [Organisation et étude du projet]()
+- [Introduction]()
+
+    - [Mon Parcours](./doc/presentation_intro.md)
+    - [Tableau des compétences](#tableau-des-compétences)
+    - [Présentation du projet](./doc/presentation.md)
     - [Liste des compétences](./doc/liste_competences.md)
+
+- [Organisation et étude du projet]()
     - [Contexte du projet](./doc/contexte_projet.md)
     - [Personas](./doc/personas.md)
     - [Composition des équipes](./doc/composition_equipe.md)
@@ -25,13 +26,27 @@
     - [Règles de gestion](./doc/regles_gestion.md)
     - [Dictionnaire de données](./doc/dictionnaire_donnees.md)
 
+- [Sécurité]()
+    - [Défense en profondeur](./doc/merise_definition.md)
+    - [Réduction de la surface d'attaque](./doc/merise/mcd.md)
+    - [Politique de moindre privilège](./doc/merise/mld.md)
+    - [Conformité RGPD]()
+
 
 - [Méthode Merise]()
     - [Définition](./doc/merise_definition.md)
     - [MCD](./doc/merise/mcd.md)
     - [MLD](./doc/merise/mld.md)
     - [MPD]()
-    
+
+- [UML]()
+    - [Définition](./doc/merise_definition.md)
+    - [Diagramme de cas d'utilisation](./doc/merise_definition.md)
+    - [Diagramme de classe](./doc/merise_definition.md)
+    - [Diagramme d'activité](./doc/merise_definition.md)
+    - [Diagrammes de séquence](./doc/merise_definition.md)
+
+
 
 
 
@@ -40,13 +55,6 @@
  
 
 
-# Introduction
-
-Ce dossier de projet a pour objectif de mettre en avant la maîtrise des compétences attendues pour l'obtention du titre de Concepteur et Développeur d'Applications.
-
-Pour cela, j'ai structuré mon projet en trois grandes parties, basées sur les AT (Activités Types) et les CP (Compétences Professionnelles), afin de couvrir l'ensemble des compétences exigées.
-
-Ce projet s'inscrit dans un travail collaboratif réalisé avec la promotion 4 CDA de l'école SIMPLON Hauts-de-France, où nous avons conçu et développé ensemble des bots à travers une organisation structurée en groupes, chacun étant dédié à la mise en place d'un bot spécifique. Cette expérience m'a permis d'appliquer mes connaissances tout en suivant des méthodologies modernes adaptées aux exigences actuelles.
 
 <!-- # Liste des compétences
 
