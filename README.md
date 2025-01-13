@@ -21,8 +21,17 @@
     - [Méthodologie utilisé](./doc/methodologie_agile.md)
     - [Les enjeux](./doc/enjeux.md)
     - [Les problématiques](./doc/problematiques.md)
-    - [Exigences Fonctionnelles](./doc/enjeux.md)
-    - [Règles de gestion](./doc/enjeux.md)
+    - [Exigences Fonctionnelles](./doc/exigences_focntionelles.md)
+    - [Règles de gestion](./doc/regles_gestion.md)
+    - [Dictionnaire de données](./doc/dictionnaire_donnees.md)
+
+
+- [Méthode Merise]()
+    - [Définition](./doc/merise_definition.md)
+    - [MCD](./doc/merise/mcd.md)
+    - [MLD](./doc/merise/mld.md)
+    - [MPD]()
+    
 
 
 
