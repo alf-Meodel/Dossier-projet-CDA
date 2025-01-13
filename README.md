@@ -45,11 +45,39 @@
   - [Diagramme d'activité](./doc/merise_definition.md)
   - [Diagrammes de séquence](./doc/merise_definition.md)
 
-- [Tests appliqués]()
+- [La partie développement]()
 
-  - [Tests unitaires](./doc/)
-  - [Tests d'intégration]()
-  - [Tests end-to-end]()
+  - [Configuration de l'environnement de travail pour le projet](#configuration-environnement)
+  - [Mise en place du dépôt et des branches (dev, main, features)](#mise-en-place-depot-branches)
+  - [Guides de contribution](#guides-contribution)
+  - [Interfaces utilisateur](#interfaces-utilisateur)
+  - [Les composants métiers](#composants-metiers)
+  - [Les composants d'accès aux données](#composants-acces-donnees)
+  - [Autres composants](#autres-composants)
+  - [Procédures de sécurisation](#procedures-securisation)
+
+- [Plans de test]()
+
+  - [Tests appliqués]()
+
+  - [Tests Introduction](./doc/test_introduction.md)
+  - [Tests unitaires](./doc/test_unitaires.md)
+  - [Tests d'intégration](./doc/test_integration.md)
+  - [Tests end-to-end](./doc/test_end_to_end.md)
+
+- [La partie déploiement]()
+
+  - [DevOps](#devops)
+  - [Procédures de déploiement](#procedures-deploiement)
+  - [Maintenance applicative](#maintenance-applicative)
+
+- [Veille technologique et sécurité]()
+
+  - [Vulnérabilités de sécurité rencontrées](#vulnerabilites-securite)
+  - [Failles corrigées](#failles-corrigees)
+  - [Démo de l'application](#demo-application)
+
+---
 
 - [**Documents éphémères**](./doc/tools_dev.md)
 
