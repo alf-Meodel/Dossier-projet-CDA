@@ -11,10 +11,22 @@
 
 # Navigation 
 
+
 - [Mon Parcours](./doc/presentation.md)
-- [Liste des compétences](./doc/liste_competences.md)
-- [Contexte du projet](./doc/contexte_projet.md)
-- [Les enjeux](./doc/enjeux.md)
+- [Organisation et étude du projet]()
+    - [Liste des compétences](./doc/liste_competences.md)
+    - [Contexte du projet](./doc/contexte_projet.md)
+    - [Personas](./doc/personas.md)
+    - [Composition des équipes](./doc/composition_equipe.md)
+    - [Méthodologie utilisé](./doc/methodologie_agile.md)
+    - [Les enjeux](./doc/enjeux.md)
+    - [Les problématiques](./doc/problematiques.md)
+    - [Exigences Fonctionnelles](./doc/enjeux.md)
+    - [Règles de gestion](./doc/enjeux.md)
+
+
+
+
 - [**Documents éphémères**](./doc/tools_dev.md)
  
 
